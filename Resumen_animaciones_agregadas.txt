@@ -1,0 +1,25 @@
+# 4_desafio_entregable_nook_nook
+Agregar git a nuestro proyecto. Crear una rama y agregar animaciones, transformaciones y/o gradientes a nuestro proyecto. Mergear este agregado. Cargar todo a nuestro repo en github
+
+estilos avanzados de la web que se aplicarón:
+
+1. Página index:
+  1.1: Imagen principal: se le agrego una transición.
+  1.2: boton_checar: se le agrego una animación y una transformación.
+  1.3: imagen de card novedades: se le agrego una transición.
+  
+2.Página carrito:
+ 2.1 carrito_imagen_producto tiene una transformacion
+ 2.2 carrito-contenedor_precios tiene una animación
+ 
+3.Página descuentos
+  3.1 card_fecha tiene una animación junto a una transformacion
+  
+4. Página Quienes somos
+
+  4.1 conocenos_textos: tiene una animación
+  4.2 contenedor_titulo_amigoMes: tiene una tranformación: skewX
+  4.3 contenedor_amigoEspecial_instagram: tiene una tranformación: scale
+  
+5.Página Contactanos
+  5.1 contenedor_formulario: tiene una tranformación: scale
